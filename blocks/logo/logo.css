@@ -1,8 +1,8 @@
-@import url(/blocks/logo/_place_footer/logo_place_footer.css);
-@import url(/blocks/logo/_place_header/logo_place_header.css);
+@import url(./_place_footer/logo_place_footer.css);
+@import url(./_place_header/logo_place_header.css);
 
 .logo {
-  background-image: url(/images/logo.svg);
+  background-image: url(../../images/logo.svg);
 }
 
 

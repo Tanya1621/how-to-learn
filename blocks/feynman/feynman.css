@@ -1,7 +1,7 @@
 
-@import url(/blocks/feynman/__link/feynman__link.css);
-@import url(/blocks/feynman/__subtitle/feynman__subtitle.css);
-@import url(/blocks/feynman/__title/feynman__title.css);
+@import url(./__link/feynman__link.css);
+@import url(./__subtitle/feynman__subtitle.css);
+@import url(./__title/feynman__title.css);
 
 
 .feynman {
@@ -10,7 +10,7 @@
   flex-direction: column;
   height: 890px;
   position: relative;
-  background-image: url(/images/feinman.png);
+  background-image: url(../../images/feinman.png);
   background-repeat: no-repeat;
   background-position: left 0 bottom 0;
 
