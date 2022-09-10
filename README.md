@@ -4,5 +4,5 @@ _Описание_: Первый проект по верстке. Одност�
 
 _Технологии_: HTML, CSS, flex-box, BEM
 
-**Cсылка на GitHub pages**: https://tanya1621.github.io/My-cat/
+**Cсылка на GitHub pages**: https://tanya1621.github.io/how-to-learn/
 
