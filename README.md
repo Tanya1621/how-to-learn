@@ -1,8 +1,8 @@
-# Проект: "Научиться учиться"
+# Project: "How to learn"
 
-_Описание_: Первый проект по верстке. Одностраничный сайт, содержащий полезную информацию для людей, желающих обучиться новому. На сайте пристутствуют графические материалы, статьи и ссылки на сторонние ресурсы. Реализованы ховер-эффекты и анимация фигур.
+_Описание_: The first layout project. One-paged website that contains benificial information for people who want te leran something new. There are visual materials, articles and links to third party resource. Implemented animation of figures and hover effects.
 
-_Технологии_: HTML, CSS, flex-box, BEM
+_Technologies_: HTML, CSS, flex-box, BEM
 
-**Cсылка на GitHub pages**: https://tanya1621.github.io/how-to-learn/
+**GitHub Pages**: https://tanya1621.github.io/how-to-learn/
 
